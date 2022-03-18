@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FkLIQD1cQP58Mo1yec/J8zQejnWjroTsR76pAQXDkZU7NPsQJq4Qo3CNxIfM1kGf2RN6K4QOD3LdTstHcD4NHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Somad\\source\\repos\\SeleniumApp\\SeleniumApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Somad\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\selenium.webdriver.chromedriver\\99.0.4844.5100\\selenium.webdriver.chromedriver.99.0.4844.5100.nupkg.sha512"
+  ],
+  "logs": []
+}
